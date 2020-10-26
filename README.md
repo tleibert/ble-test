@@ -1,0 +1,1 @@
+Test playing around with `pygatt`. Maybe it will result in controlling my desklamp. Idk.
